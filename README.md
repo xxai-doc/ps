@@ -7,3 +7,4 @@
 * [مخکینۍ کوډ](https://github.com/xxai-art/web)
 * [په ټوله کې د سایټ لپاره د ژبې پیک](https://github.com/xxai-art/web/tree/main/i18n)
 * [د ننوتلو ماډلونو لپاره د ژبې کڅوړې](https://github.com/wacpkg/user/tree/main/ui.i18n)
+* [د ویب پاڼې څو ژبني اسناد](https://github.com/xxai-doc)
